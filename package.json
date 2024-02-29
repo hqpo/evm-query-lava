@@ -11,5 +11,9 @@
   "license": "ISC",
   "dependencies": {
     "ethers": "^6.11.1"
+  },
+  "repository": {
+  "type": "git",
+    "url": "git+https://github.com/hqpo/evm-query-lava.git"
   }
 }
